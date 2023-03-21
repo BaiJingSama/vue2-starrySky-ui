@@ -1,17 +1,13 @@
 <template>
   <div id="app">
-    <gButton></gButton>
+    <s-button></s-button>
   </div>
 </template>
 
 <script>
-import gButton from './components/g-button'
 
 export default {
   name: 'App',
-  components: {
-    gButton
-  }
 }
 </script>
 
