@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <s-button></s-button>
+    <s-button>我是button</s-button>
   </div>
 </template>
 
